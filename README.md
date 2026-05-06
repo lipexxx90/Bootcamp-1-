@@ -1,2 +1,5 @@
 # Bootcamp-1-
-Trabalhos bootcamp, tudo o que eu fiz durante as aulas.
+Trabalhos de bootcamp 
+Aqui contém slides,documentos contendo informações nelas. Usarei esse repósitorio como auxilio, que me ajuda a ver todos os trabalhos feitos. 
+Portifólios pessoais e acadêmicos.
+ 
